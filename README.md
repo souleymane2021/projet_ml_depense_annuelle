@@ -1,4 +1,5 @@
 📊 Analyse des dépenses annuelles des clients
+
 🎯 Objectif du projet
 
 Ce projet vise à analyser et prédire la dépense annuelle des clients à partir de variables démographiques, professionnelles et financières (âge, revenu mensuel, ancienneté, type de contrat, secteur, région).
@@ -41,7 +42,8 @@ encodage des variables catégorielles (OneHotEncoder)
 Ces étapes garantissent des données cohérentes et exploitables par le modèle.
 
 📊 Analyse descriptive et visualisation
-🔹 Statistiques descriptives
+
+🔹Statistiques descriptives
 
 Les statistiques descriptives (moyenne, écart-type, minimum, maximum, quartiles) permettent de :
 
